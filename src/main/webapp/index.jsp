@@ -8,7 +8,7 @@
 <BODY>
 
 <H1>WebApp JSP Snoop page</H1>
-<img src="images/lighthouse.jpg">
+<img src="images/14620535688_412f29d6f8_b.jpg">
 
 <h2>JVM Memory Monitor TESTING</h2>
  
