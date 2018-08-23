@@ -193,7 +193,7 @@ MemoryPoolMXBean item = (MemoryPoolMXBean) iter.next();
 <H2>Request parameters</H2>
 <TABLE>
 <TR valign=top>
-	<TH align=left>Parameter:</TH>
+	<TH align=left>Parameters:</TH>
 	<TH align=left>Value:</TH>
 	<TH align=left>Multiple values:</TH>
 </TR>
